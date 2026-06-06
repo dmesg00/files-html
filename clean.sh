@@ -3,8 +3,8 @@
 ##################################################################                                                                                                                                                                         
 # files-html - Cool HTML Indexer for Apache/Nginx with Bootstrap #                                                                                                                                                                         
 # Date: 16-12-2023                                               #                                                                                                                                                                         
-# Author: asdo92                                                 #                                                                                                                                                                         
-# Contact: asdo92@duck.com                                       #                                                                                                                                                                         
+# Author: dmesg00                                                 #                                                                                                                                                                         
+# Contact: dmesg00@duck.com                                       #                                                                                                                                                                         
 ##################################################################
 
 # Variables

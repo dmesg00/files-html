@@ -7,7 +7,7 @@ files-html - Cool HTML Indexer for Apache/Nginx with Bootstrap
   
     * Clone git repository:
     
-          git clone https://github.com/asdo92/files-html
+          git clone https://github.com/dmesg00/files-html
 
   * **Set language and generate index:**
   
